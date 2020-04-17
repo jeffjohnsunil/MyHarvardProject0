@@ -1,0 +1,59 @@
+body {
+	margin: 0px;
+	background: #eee;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#header {
+	width: 100%;
+	overflow: hidden;
+}
+
+#header img {
+	width: 100%;
+	height: auto; 
+}
+
+#profile-image img {
+	width: 100%;
+	height: auto;
+}
+
+#profile h2 {
+	color: black;
+	text-align: center;
+	font-size: 14px;
+}
+
+#introduction {
+	width: 600px;
+	padding: 20px;
+	background: white;
+	border: 1px solid #ccc;
+	margin: 20px auto;
+	border-radius: 10px;
+}
+
+h1 {
+	color: #1998E2;
+	font-size: 22px;
+	text-align: center;
+}
+
+p {
+	color: rgb(0, 0, 0);
+	font-size: 18px;
+	line-height: 26px;
+}
+
+.col-lg-3 {
+	padding: 3px;
+	background-color: teal;
+	border: 2px solid black;
+}
+
+.col-sm-6 {
+	padding: 3px;
+	background-color: teal;
+	border: 2px solid black;
+}
